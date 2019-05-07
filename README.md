@@ -39,7 +39,7 @@ tiket pesawat, bon hotel, dll.
 
 # Dashboard
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/33746018/57284083-b0a07d00-70da-11e9-90b2-0254884d5fb2.jpg" align="middle" width="350" height="550" />
+  <img src="https://user-images.githubusercontent.com/33746018/57284083-b0a07d00-70da-11e9-90b2-0254884d5fb2.jpg" align="middle" width="350" height="550" />
 </p>
 
 # Profile User
@@ -88,5 +88,5 @@ tiket pesawat, bon hotel, dll.
   
 # Zoom Foto
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/33746018/57284099-b4340400-70da-11e9-90a2-b8c75d955e21.jpg" align="middle" width="350" height="550" />
+  <img src="https://user-images.githubusercontent.com/33746018/57284099-b4340400-70da-11e9-90a2-b8c75d955e21.jpg" align="middle" width="350" height="550" />
 </p>
